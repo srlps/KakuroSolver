@@ -1,0 +1,9 @@
+{
+  "name": "kakurosolver",
+  "version": "1.0.0",
+  "description": "Resolvedor de Kakuros usando algoritmos geneticos",
+  "main": "index.js",
+  "author": "Sergio Robles",
+  "repository": "https://github.com/srlps/KakuroSolver",
+  "license": "MIT"
+}
